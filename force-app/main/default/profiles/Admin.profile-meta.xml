@@ -10,6 +10,9 @@
     </classAccesses>
     <custom>false</custom>
     <layoutAssignments>
+        <layout>obj_Jesse__c-obj_Jesse Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>obj_liquad2__c-obj_liquad2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -31,6 +34,15 @@
         <endAddress>255.255.255.255</endAddress>
         <startAddress>0.0.0.0</startAddress>
     </loginIpRanges>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>obj_Jesse__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>

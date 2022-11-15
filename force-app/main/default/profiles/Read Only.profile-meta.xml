@@ -22,6 +22,9 @@
         <layout>obj_mytest__c-obj_mytest Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>obj_raymond__c-obj_raymond Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>obj_robert__c-obj_robert Layout</layout>
     </layoutAssignments>
     <layoutAssignments>

@@ -1,8 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <classAccesses>
+        <apexClass>MyClass_tgong</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>MyClass_tgongTest</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>true</custom>
     <layoutAssignments>
+        <layout>obj_Jesse__c-obj_Jesse Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>obj_liquad2__c-obj_liquad2 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>obj_liquad__c-obj_liquad Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>obj_mytest__c-obj_mytest Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>obj_raymond__c-obj_raymond Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>obj_robert__c-obj_robert Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>obj_yangjian__c-obj_yangjian Layout</layout>
     </layoutAssignments>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
